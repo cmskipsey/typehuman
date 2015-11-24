@@ -11,8 +11,8 @@ Outline of the to-do list:
 + Express guiding principles and values of a self-organising, organisational operating system
 + Agree on the approach for submitting issues, feature requests, and improvements against the TypeHuman framework
 + Identify organisational areas of concern for which conventions and policies can inform how a self-managing organisation responds, examples include:
-++ Decision making
-++ Conflict resolution
-++ Role identification
-++ Human resources
+  + Decision making
+  + Conflict resolution
+  + Role identification
+  + Human resources
 + Prioritise and deliver first set of policies for the self-managing organisation 
